@@ -1,2 +1,7 @@
-node_modules
+# Node
+node_modules/
 .env
+
+# Images / binaries
+public/images/
+*.exe
